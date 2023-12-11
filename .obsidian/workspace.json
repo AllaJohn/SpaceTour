@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "166d776837ad72aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testing2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testingtesting/test1.md",
+                "file": "testing2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testingtesting/test1.md",
+                "file": "testing2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testingtesting/test1.md"
+                "file": "testing2.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d03d24e97052ae63",
+  "active": "166d776837ad72aa",
   "lastOpenFiles": [
     "Testingtesting/test1.md",
+    "testing2.md",
+    "testing2",
     "Testingtesting"
   ]
 }
