@@ -29,17 +29,10 @@
   "lineAuthor": {
     "show": true,
     "followMovement": "inactive",
-<<<<<<< HEAD
     "authorDisplay": "initials",
     "showCommitHash": false,
     "dateTimeFormatOptions": "natural language",
     "dateTimeFormatCustomString": "YYYY-MM-DD HH:mm",
-=======
-    "authorDisplay": "first name",
-    "showCommitHash": false,
-    "dateTimeFormatOptions": "date",
-    "dateTimeFormatCustomString": "YY-MM-DD ",
->>>>>>> origin/main
     "dateTimeTimezone": "viewer-local",
     "coloringMaxAge": "1y",
     "colorNew": {
@@ -54,15 +47,9 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-<<<<<<< HEAD
     "gutterSpacingFallbackLength": 8,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "natural language"
-=======
-    "gutterSpacingFallbackLength": 26,
-    "lastShownAuthorDisplay": "first name",
-    "lastShownDateTimeFormatOptions": "date"
->>>>>>> origin/main
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }
