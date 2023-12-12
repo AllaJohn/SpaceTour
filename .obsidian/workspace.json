@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1fb7aa87e438423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如果能看到就说明成功啦！.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing2.md",
+                "file": "如果能看到就说明成功啦！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing2.md",
+                "file": "如果能看到就说明成功啦！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing2.md"
+                "file": "如果能看到就说明成功啦！.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78405efaa3f0522a",
+  "active": "e1fb7aa87e438423",
   "lastOpenFiles": [
+    "testing2.md",
+    "如果能看到就说明成功啦！.md",
     "Testingtesting/test1.md",
     "hi.md",
     "README.md",
-    "testing2.md",
     "conflict-files-obsidian-git.md",
     "testing2",
     "Testingtesting"
