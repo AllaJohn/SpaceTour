@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing2.md",
+                "file": "如果能看到就说明成功啦！.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing2.md",
+                "file": "如果能看到就说明成功啦！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing2.md",
+                "file": "如果能看到就说明成功啦！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing2.md"
+                "file": "如果能看到就说明成功啦！.md"
               }
             }
           }
@@ -147,9 +147,11 @@
   },
   "active": "a818668be5ac71f3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "如果能看到就说明成功啦！.md",
+    "testing2.md",
     "README.md",
     "Testingtesting/test1.md",
-    "testing2.md",
     "hi.md",
     "testing2",
     "Testingtesting"
