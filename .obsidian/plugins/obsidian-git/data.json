@@ -33,7 +33,7 @@
     "showCommitHash": false,
     "dateTimeFormatOptions": "datetime",
     "dateTimeFormatCustomString": "YY-MM-DD ",
-    "dateTimeTimezone": "author-local",
+    "dateTimeTimezone": "viewer-local",
     "coloringMaxAge": "1y",
     "colorNew": {
       "r": 255,
@@ -47,7 +47,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 32,
+    "gutterSpacingFallbackLength": 22,
     "lastShownAuthorDisplay": "full",
     "lastShownDateTimeFormatOptions": "datetime"
   },
