@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hi.md",
+                "file": "testing2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi.md",
+                "file": "testing2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi.md",
+                "file": "testing2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi.md"
+                "file": "testing2.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "97783db900dc96e6",
   "lastOpenFiles": [
-    "testing2.md",
     "hi.md",
     "Testingtesting/test1.md",
+    "testing2.md",
     "testing2",
     "Testingtesting"
   ]
